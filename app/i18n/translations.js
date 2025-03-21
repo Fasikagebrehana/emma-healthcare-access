@@ -11,7 +11,8 @@ export const translations = {
 
     // Hero Section
     heroTitle: "Confidential Health Support for Every Girl",
-    heroSubtitle: "Get private consultations, access trusted health information, and find the nearest care center—all in one place",
+    heroSubtitle:
+      "Get private consultations, access trusted health information, and find the nearest care center—all in one place",
     startConsultation: "Start Consultations",
     findHealthCenter: "Find a Health Center",
 
@@ -23,41 +24,53 @@ export const translations = {
 
     // Why Use Emma Section
     whyUseEmma: "Why Use Emma",
-    whyUseEmmaSubtitle: "Emma connects you to trusted healthcare, expert advice, and confidential support—quickly, easily, and without judgment.",
-    
+    whyUseEmmaSubtitle:
+      "Emma connects you to trusted healthcare, expert advice, and confidential support—quickly, easily, and without judgment.",
+
     // Features
     privateHelp: "Private Help",
-    privateHelpDesc: "Your health is personal. Get confidential support without fear or judgment.",
+    privateHelpDesc:
+      "Your health is personal. Get confidential support without fear or judgment.",
     nearbyHospitals: "Nearby Hospitals",
-    nearbyHospitalsDesc: "Find nearby hospitals and health centers in just a few clicks.",
+    nearbyHospitalsDesc:
+      "Find nearby hospitals and health centers in just a few clicks.",
     healthInfo: "Health Info",
-    healthInfoDesc: "Get expert-approved content on reproductive health, mental well-being, and more.",
+    healthInfoDesc:
+      "Get expert-approved content on reproductive health, mental well-being, and more.",
     aiAssistance: "AI Assistance",
-    aiAssistanceDesc: "Instant answers, 24/7, to help you make informed health decisions.",
+    aiAssistanceDesc:
+      "Instant answers, 24/7, to help you make informed health decisions.",
     directContact: "Direct Contact",
-    directContactDesc: "Quickly connect with partner hospitals for guidance, appointments, or urgent care.",
+    directContactDesc:
+      "Quickly connect with partner hospitals for guidance, appointments, or urgent care.",
     secureEasy: "Secure & Easy",
-    secureEasyDesc: "A user-friendly platform designed for your safety and peace of mind.",
+    secureEasyDesc:
+      "A user-friendly platform designed for your safety and peace of mind.",
 
     // Trusted Care Section
     trustedCare: "Trusted Care, Just Around The Corner.",
-    trustedCareDesc: "We've partnered with top hospitals and health centers to bring you accessible, reliable care when you need it. Find a trusted healthcare provider near you with just a click!",
+    trustedCareDesc:
+      "We've partnered with top hospitals and health centers to bring you accessible, reliable care when you need it. Find a trusted healthcare provider near you with just a click!",
     findHospitalBtn: "Find Hospital",
 
     // Success Stories Section
     successStories: "Some Of Emma Success Stories",
-    successStoriesSubtitle: "Emma connects you to trusted healthcare, expert advice, and confidential support—quickly, easily, and without judgment.",
+    successStoriesSubtitle:
+      "Emma connects you to trusted healthcare, expert advice, and confidential support—quickly, easily, and without judgment.",
     storyTitle: "How Emma Helped Me Plan My Family",
-    storyContent: "As a young mother, I was unsure about family planning and had so many questions. Through Emma, I got connected with a doctor who listened to my concerns and helped me understand my options. Now, I feel confident in my decisions and have a plan that works for me and my family. Thank you, Emma!",
+    storyContent:
+      "As a young mother, I was unsure about family planning and had so many questions. Through Emma, I got connected with a doctor who listened to my concerns and helped me understand my options. Now, I feel confident in my decisions and have a plan that works for me and my family. Thank you, Emma!",
 
     // Emma AI Section
     emmaAITitle: "Emma Assistance: Your Guide To Getting Started",
-    emmaAIDesc: "New to Emma? Our AI-powered assistant is here to help you navigate the platform effortlessly. Whether you need guidance on booking a private consultation, finding nearby partner hospitals, or accessing reliable health information, Emma Assistance ensures you get the support you need—quickly and confidentially.",
+    emmaAIDesc:
+      "New to Emma? Our AI-powered assistant is here to help you navigate the platform effortlessly. Whether you need guidance on booking a private consultation, finding nearby partner hospitals, or accessing reliable health information, Emma Assistance ensures you get the support you need—quickly and confidentially.",
     tryEmma: "Try Emma",
 
     // Midwives Section
     meetMidwives: "Meet our Great Midwives",
-    midwivesSubtitle: "Emma connects you to trusted healthcare, expert advice, and confidential support— quickly, easily, and without judgment.",
+    midwivesSubtitle:
+      "Emma connects you to trusted healthcare, expert advice, and confidential support— quickly, easily, and without judgment.",
     viewAllMidwives: "View All Midwives",
     experience: "Experience",
     languages: "Languages",
@@ -68,21 +81,29 @@ export const translations = {
 
     // FAQ Section
     faqTitle: "Frequently Asked Questions",
-    faqSubtitle: "Emma connects you to trusted healthcare, expert advice, and confidential support—quickly, easily, and without judgment.",
+    faqSubtitle:
+      "Emma connects you to trusted healthcare, expert advice, and confidential support—quickly, easily, and without judgment.",
     faqPrivacy: "How does Emma protect my privacy?",
-    faqPrivacyAnswer: "Emma takes your privacy very seriously. All interactions on the platform are confidential and private. We protect your safety and ensure that your health-related information is protected at all times.",
+    faqPrivacyAnswer:
+      "Emma takes your privacy very seriously. All interactions on the platform are confidential and private. We protect your safety and ensure that your health-related information is protected at all times.",
     faqDoctor: "Can I talk to a doctor or health professional through Emma?",
-    faqDoctorAnswer: "Yes, Emma connects you directly with qualified healthcare professionals. You can have secure, private consultations with doctors and specialists through our platform.",
+    faqDoctorAnswer:
+      "Yes, Emma connects you directly with qualified healthcare professionals. You can have secure, private consultations with doctors and specialists through our platform.",
     faqHealthInfo: "What kind of health information can I find on Emma?",
-    faqHealthInfoAnswer: "Emma provides comprehensive information about reproductive health, family planning, mental health, and general wellness. All our content is expert-reviewed and regularly updated.",
+    faqHealthInfoAnswer:
+      "Emma provides comprehensive information about reproductive health, family planning, mental health, and general wellness. All our content is expert-reviewed and regularly updated.",
     faqHospital: "How can I find a hospital or health center near me?",
-    faqHospitalAnswer: "Emma's hospital finder feature allows you to easily locate nearby healthcare facilities. Simply enter your location, and we'll show you the closest partner hospitals and health centers.",
-    faqReproductive: "Can Emma help me with issues related to reproductive health?",
-    faqReproductiveAnswer: "Yes, Emma specializes in reproductive health support. Our platform connects you with experts who can provide guidance on family planning, maternal health, and other reproductive health concerns.",
+    faqHospitalAnswer:
+      "Emma's hospital finder feature allows you to easily locate nearby healthcare facilities. Simply enter your location, and we'll show you the closest partner hospitals and health centers.",
+    faqReproductive:
+      "Can Emma help me with issues related to reproductive health?",
+    faqReproductiveAnswer:
+      "Yes, Emma specializes in reproductive health support. Our platform connects you with experts who can provide guidance on family planning, maternal health, and other reproductive health concerns.",
 
     // Footer
     footerAbout: "About Emma",
-    footerAboutDesc: "Emma is your trusted partner in healthcare, providing confidential support and expert guidance for women's health.",
+    footerAboutDesc:
+      "Emma is your trusted partner in healthcare, providing confidential support and expert guidance for women's health.",
     footerQuickLinks: "Quick Links",
     footerServices: "Services",
     footerFindHospital: "Find a Hospital",
@@ -94,21 +115,27 @@ export const translations = {
     footerFAQ: "FAQ",
     footerContactUs: "Contact Us",
     footerNewsletter: "Stay Updated",
-    footerSubscribe: "Subscribe to our newsletter for the latest updates and health tips.",
+    footerSubscribe:
+      "Subscribe to our newsletter for the latest updates and health tips.",
     footerSubscribeBtn: "Subscribe",
     footerRights: "© 2024 Emma. All rights reserved.",
 
     // Services Page
     servicesTitle: "Our Services",
-    servicesSubtitle: "Comprehensive midwifery care and support throughout your journey",
+    servicesSubtitle:
+      "Comprehensive midwifery care and support throughout your journey",
     servicesMidwifeTitle: "Find a Midwife",
-    servicesMidwifeDesc: "Connect with experienced midwives who provide personalized care and support throughout your pregnancy journey.",
+    servicesMidwifeDesc:
+      "Connect with experienced midwives who provide personalized care and support throughout your pregnancy journey.",
     servicesPrenatalTitle: "Prenatal Care",
-    servicesPrenatalDesc: "Receive comprehensive prenatal care including check-ups, monitoring, and guidance for a healthy pregnancy.",
+    servicesPrenatalDesc:
+      "Receive comprehensive prenatal care including check-ups, monitoring, and guidance for a healthy pregnancy.",
     servicesBirthTitle: "Birth Support",
-    servicesBirthDesc: "Get expert support during labor and delivery with experienced midwives by your side.",
+    servicesBirthDesc:
+      "Get expert support during labor and delivery with experienced midwives by your side.",
     servicesPostpartumTitle: "Postpartum Care",
-    servicesPostpartumDesc: "Receive care and support after childbirth, including newborn care guidance and maternal recovery support.",
+    servicesPostpartumDesc:
+      "Receive care and support after childbirth, including newborn care guidance and maternal recovery support.",
     servicesLearnMore: "Learn More",
     servicesBookNow: "Book Now",
 
@@ -160,7 +187,7 @@ export const translations = {
     midwifeSelectTime: "Select Time",
     midwifeNotes: "Additional Notes",
     midwifeSubmit: "Submit",
-    midwifeClose: "Close"
+    midwifeClose: "Close",
   },
   am: {
     // Navigation
@@ -174,7 +201,8 @@ export const translations = {
 
     // Hero Section
     heroTitle: "ለእያንዳንዷ ሴት ሚስጥራዊ የጤና ድጋፍ",
-    heroSubtitle: "የግል ምክክር፣ የታመነ የጤና መረጃ እና በአቅራቢያዎ ያለውን የጤና ማእከል ያግኙ - ሁሉም በአንድ ቦታ",
+    heroSubtitle:
+      "የግል ምክክር፣ የታመነ የጤና መረጃ እና በአቅራቢያዎ ያለውን የጤና ማእከል ያግኙ - ሁሉም በአንድ ቦታ",
     startConsultation: "ምክክር ጀምር",
     findHealthCenter: "የጤና ማእከል ፈልግ",
 
@@ -186,7 +214,8 @@ export const translations = {
 
     // Why Use Emma Section
     whyUseEmma: "ለምን እማን መጠቀም አለብዎት",
-    whyUseEmmaSubtitle: "እማ የታመነ የጤና እንክብካቤ፣ የባለሙያ ምክር እና ሚስጥራዊ ድጋፍን በፍጥነት፣ በቀላሉ እና ያለ ፍርድ ታገናኛለች።",
+    whyUseEmmaSubtitle:
+      "እማ የታመነ የጤና እንክብካቤ፣ የባለሙያ ምክር እና ሚስጥራዊ ድጋፍን በፍጥነት፣ በቀላሉ እና ያለ ፍርድ ታገናኛለች።",
 
     // Features
     privateHelp: "የግል እርዳታ",
@@ -194,7 +223,8 @@ export const translations = {
     nearbyHospitals: "አቅራቢያ ያሉ ሆስፒታሎች",
     nearbyHospitalsDesc: "በጥቂት ጠቅታዎች አቅራቢያዎ ያሉ ሆስፒታሎችን እና የጤና ማእከላትን ያግኙ።",
     healthInfo: "የጤና መረጃ",
-    healthInfoDesc: "በባለሙያዎች የተረጋገጠ የስነ-ተዋልዶ ጤና፣ የአእምሮ ደህንነት እና ሌሎች መረጃዎችን ያግኙ።",
+    healthInfoDesc:
+      "በባለሙያዎች የተረጋገጠ የስነ-ተዋልዶ ጤና፣ የአእምሮ ደህንነት እና ሌሎች መረጃዎችን ያግኙ።",
     aiAssistance: "የ AI እርዳታ",
     aiAssistanceDesc: "ወዲያውኑ መልሶችን ያግኙ፣ 24/7፣ የተሻለ የጤና ውሳኔዎችን ለመወሰን።",
     directContact: "ቀጥተኛ ግንኙነት",
@@ -204,23 +234,28 @@ export const translations = {
 
     // Trusted Care Section
     trustedCare: "የታመነ እንክብካቤ፣ በአቅራቢያዎ።",
-    trustedCareDesc: "ተደራሽ እና አስተማማኝ እንክብካቤን ለማቅረብ ከምርጥ ሆስፒታሎች እና የጤና ማእከላት ጋር ተባብረናል። በአንድ ጠቅታ አስተማማኝ የጤና አገልግሎት ሰጪን በአቅራቢያዎ ያግኙ!",
+    trustedCareDesc:
+      "ተደራሽ እና አስተማማኝ እንክብካቤን ለማቅረብ ከምርጥ ሆስፒታሎች እና የጤና ማእከላት ጋር ተባብረናል። በአንድ ጠቅታ አስተማማኝ የጤና አገልግሎት ሰጪን በአቅራቢያዎ ያግኙ!",
     findHospitalBtn: "ሆስፒታል ፈልግ",
 
     // Success Stories Section
     successStories: "የእማ ስኬት ታሪኮች",
-    successStoriesSubtitle: "እማ የታመነ የጤና እንክብካቤ፣ የባለሙያ ምክር እና ሚስጥራዊ ድጋፍን በፍጥነት፣ በቀላሉ እና ያለ ፍርድ ታገናኛለች።",
+    successStoriesSubtitle:
+      "እማ የታመነ የጤና እንክብካቤ፣ የባለሙያ ምክር እና ሚስጥራዊ ድጋፍን በፍጥነት፣ በቀላሉ እና ያለ ፍርድ ታገናኛለች።",
     storyTitle: "እማ የቤተሰብ ዕቅዴን እንዴት እንደረዳኝ",
-    storyContent: "እንደ ወጣት እናት፣ ስለ ቤተሰብ ዕቅድ እርግጠኛ አልነበርኩም እና ብዙ ጥያቄዎች ነበሩኝ። በእማ በኩል፣ ጭንቀቴን ያዳመጠ እና አማራጮቼን እንድረዳ የረዳኝ ሐኪም ጋር ተገናኘሁ። አሁን፣ በውሳኔዎቼ በራሴ የተማመንኩ ሲሆን ለእኔ እና ለቤተሰቤ የሚስማማ እቅድ አለኝ። አመሰግናለሁ፣ እማ!",
+    storyContent:
+      "እንደ ወጣት እናት፣ ስለ ቤተሰብ ዕቅድ እርግጠኛ አልነበርኩም እና ብዙ ጥያቄዎች ነበሩኝ። በእማ በኩል፣ ጭንቀቴን ያዳመጠ እና አማራጮቼን እንድረዳ የረዳኝ ሐኪም ጋር ተገናኘሁ። አሁን፣ በውሳኔዎቼ በራሴ የተማመንኩ ሲሆን ለእኔ እና ለቤተሰቤ የሚስማማ እቅድ አለኝ። አመሰግናለሁ፣ እማ!",
 
     // Emma AI Section
     emmaAITitle: "የእማ እርዳታ፡ የእርስዎ መመሪያ ለመጀመር",
-    emmaAIDesc: "እማ አዲስ ነዎት? የእኛ በ AI የሚጎላበት ረዳት መድረኩን በቀላሉ እንዲዳስሱ ለመርዳት እዚህ አለ። የግል ምክክር ለመያዝ፣ በአቅራቢያ ያሉ አጋር ሆስፒታሎችን ለማግኘት፣ ወይም አስተማማኝ የጤና መረጃ ለማግኘት መመሪያ ከፈለጉ፣ የእማ እርዳታ የሚፈልጉትን ድጋፍ በፍጥነት እና በሚስጥር እንዲያገኙ ያረጋግጣል።",
+    emmaAIDesc:
+      "እማ አዲስ ነዎት? የእኛ በ AI የሚጎላበት ረዳት መድረኩን በቀላሉ እንዲዳስሱ ለመርዳት እዚህ አለ። የግል ምክክር ለመያዝ፣ በአቅራቢያ ያሉ አጋር ሆስፒታሎችን ለማግኘት፣ ወይም አስተማማኝ የጤና መረጃ ለማግኘት መመሪያ ከፈለጉ፣ የእማ እርዳታ የሚፈልጉትን ድጋፍ በፍጥነት እና በሚስጥር እንዲያገኙ ያረጋግጣል።",
     tryEmma: "እማን ሞክሪ",
 
     // Midwives Section
     meetMidwives: "ታላቅ አዋላጆቻችንን ይገናኙ",
-    midwivesSubtitle: "እማ የተወደደ የጤና እንክብካቤ፣ የባለሙያ ምክር እና የግል ድጋፍ ያገኛሉ— በፍጥነት፣ በቀላሉ እና ያለ ፍርድ በመስጠት።",
+    midwivesSubtitle:
+      "እማ የተወደደ የጤና እንክብካቤ፣ የባለሙያ ምክር እና የግል ድጋፍ ያገኛሉ— በፍጥነት፣ በቀላሉ እና ያለ ፍርድ በመስጠት።",
     viewAllMidwives: "ሁሉንም አዋላጆች ይመልከቱ",
     experience: "የስራ ልምድ",
     languages: "ቋንቋዎች",
@@ -231,21 +266,28 @@ export const translations = {
 
     // FAQ Section
     faqTitle: "ተደጋጋሚ ጥያቄዎች",
-    faqSubtitle: "Emma connects you to trusted healthcare, expert advice, and confidential support—quickly, easily, and without judgment.",
+    faqSubtitle:
+      "Emma connects you to trusted healthcare, expert advice, and confidential support—quickly, easily, and without judgment.",
     faqPrivacy: "እማ የእርስዎን ግላዊነት እንዴት ታጠብቃለች?",
-    faqPrivacyAnswer: "እማ የእርስዎን ግላዊነት በጣም በቁም ነገር ታይታለች። በመድረኩ ላይ የሚደረጉ ሁሉም ግንኙነቶች ሚስጥራዊ እና የግል ናቸው። ደህንነትዎን እንድንጠብቅ እና የጤናዎ መረጃዎች በሁሉም ጊዜ እንዲጠበቁ እናረጋግጣለን።",
+    faqPrivacyAnswer:
+      "እማ የእርስዎን ግላዊነት በጣም በቁም ነገር ታይታለች። በመድረኩ ላይ የሚደረጉ ሁሉም ግንኙነቶች ሚስጥራዊ እና የግል ናቸው። ደህንነትዎን እንድንጠብቅ እና የጤናዎ መረጃዎች በሁሉም ጊዜ እንዲጠበቁ እናረጋግጣለን።",
     faqDoctor: "በእማ በኩል ከሐኪም ወይም የጤና ባለሙያ ጋር መነጋገር እችላለሁ?",
-    faqDoctorAnswer: "አዎ፣ እማ እርስዎን በቀጥታ ከብቁ የጤና ባለሙያዎች ጋር ታገናኛለች። በመድረካችን በኩል ከሐኪሞች እና ባለሙያዎች ጋር ደህንነቱ የተጠበቀ፣ የግል ምክክር ማድረግ ይችላሉ።",
+    faqDoctorAnswer:
+      "አዎ፣ እማ እርስዎን በቀጥታ ከብቁ የጤና ባለሙያዎች ጋር ታገናኛለች። በመድረካችን በኩል ከሐኪሞች እና ባለሙያዎች ጋር ደህንነቱ የተጠበቀ፣ የግል ምክክር ማድረግ ይችላሉ።",
     faqHealthInfo: "በእማ ላይ ምን ዓይነት የጤና መረጃ ማግኘት እችላለሁ?",
-    faqHealthInfoAnswer: "እማ ስለ ስነ-ተዋልዶ ጤና፣ ቤተሰብ ዕቅድ፣ የአእምሮ ጤና እና አጠቃላይ ደህንነት ሁሉን አቀፍ መረጃ ይሰጣል። ሁሉም ይዘታችን በባለሙያዎች የተገምገም እና በየጊዜው የተዘምነ ነው።",
+    faqHealthInfoAnswer:
+      "እማ ስለ ስነ-ተዋልዶ ጤና፣ ቤተሰብ ዕቅድ፣ የአእምሮ ጤና እና አጠቃላይ ደህንነት ሁሉን አቀፍ መረጃ ይሰጣል። ሁሉም ይዘታችን በባለሙያዎች የተገምገም እና በየጊዜው የተዘምነ ነው።",
     faqHospital: "በአቅራቢያዎ ያለውን ሆስፒታል ወይም የጤና ማእከል እንዴት ማግኘት እችላለሁ?",
-    faqHospitalAnswer: "የእማ ሆስፒታል ፈላጊ ባህሪ በአቅራቢያዎ ያሉ የጤና ተቋማትን በቀላሉ እንድታገኙ ያስችልዎታል። ቦታዎን ብቻ ያስገቡ፣ እና በአቅራቢያዎ ያሉ አጋር ሆስፒታሎችን እና የጤና ማእከላትን እናገኛለን።",
+    faqHospitalAnswer:
+      "የእማ ሆስፒታል ፈላጊ ባህሪ በአቅራቢያዎ ያሉ የጤና ተቋማትን በቀላሉ እንድታገኙ ያስችልዎታል። ቦታዎን ብቻ ያስገቡ፣ እና በአቅራቢያዎ ያሉ አጋር ሆስፒታሎችን እና የጤና ማእከላትን እናገኛለን።",
     faqReproductive: "እማ በስነ-ተዋልዶ ጤና ጉዳዮች ላይ መርዳት እችላለሁ?",
-    faqReproductiveAnswer: "አዎ፣ እማ በስነ-ተዋልዶ ጤና ድጋፍ ላይ ተስፋፊ ናት። መድረካችን በቤተሰብ ዕቅድ፣ የእናት ጤና እና ሌሎች የስነ-ተዋልዶ ጤና ጉዳዮች ላይ መመሪያ ሊሰጡ የሚችሉ ባለሙያዎች ጋር ታገናኛለች።",
+    faqReproductiveAnswer:
+      "አዎ፣ እማ በስነ-ተዋልዶ ጤና ድጋፍ ላይ ተስፋፊ ናት። መድረካችን በቤተሰብ ዕቅድ፣ የእናት ጤና እና ሌሎች የስነ-ተዋልዶ ጤና ጉዳዮች ላይ መመሪያ ሊሰጡ የሚችሉ ባለሙያዎች ጋር ታገናኛለች።",
 
     // Footer
     footerAbout: "ስለ እማ",
-    footerAboutDesc: "እማ የእርስዎ የታመነ የጤና አጋር ናት፣ ለሴቶች ጤና ሚስጥራዊ ድጋፍ እና የባለሙያ መመሪያ ይሰጣል።",
+    footerAboutDesc:
+      "እማ የእርስዎ የታመነ የጤና አጋር ናት፣ ለሴቶች ጤና ሚስጥራዊ ድጋፍ እና የባለሙያ መመሪያ ይሰጣል።",
     footerQuickLinks: "ፈጣን አገናኞች",
     footerServices: "አገልግሎቶች",
     footerFindHospital: "ሆስፒታል ፈልግ",
@@ -265,13 +307,17 @@ export const translations = {
     servicesTitle: "አገልግሎቶቻችን",
     servicesSubtitle: "የእርስዎን ፍላጎት የሚያሟላ ሁሉን አቀፍ የጤና እንክብካቤ ድጋፍ",
     servicesMidwifeTitle: "ድጋፍ እናት ፈልግ",
-    servicesMidwifeDesc: "በእርግዝና ጉዞዎ ሁሉ የግል እንክብካቤ እና ድጋፍ የሚሰጡ ተሞክሮ ያላቸው ድጋፍ እናቶች ጋር ተገናኝ።",
+    servicesMidwifeDesc:
+      "በእርግዝና ጉዞዎ ሁሉ የግል እንክብካቤ እና ድጋፍ የሚሰጡ ተሞክሮ ያላቸው ድጋፍ እናቶች ጋር ተገናኝ።",
     servicesHospitalTitle: "ሆስፒታል ፈልግ",
-    servicesHospitalDesc: "ለሴቶች ጤና የተለዩ አገልግሎቶች የሚሰጡ በአቅራቢያዎ ያሉ ሆስፒታሎች እና የጤና ተቋማትን ያግኙ።",
+    servicesHospitalDesc:
+      "ለሴቶች ጤና የተለዩ አገልግሎቶች የሚሰጡ በአቅራቢያዎ ያሉ ሆስፒታሎች እና የጤና ተቋማትን ያግኙ።",
     servicesConsultationTitle: "የመስመር ላይ ምክክር",
-    servicesConsultationDesc: "ከጤና ባለሙያዎች ጋር ደህንነቱ የተጠበቀ፣ ሚስጥራዊ የመስመር ላይ ምክክሮች በኩል የባለሙያ ምክር እና መመሪያ ያግኙ።",
+    servicesConsultationDesc:
+      "ከጤና ባለሙያዎች ጋር ደህንነቱ የተጠበቀ፣ ሚስጥራዊ የመስመር ላይ ምክክሮች በኩል የባለሙያ ምክር እና መመሪያ ያግኙ።",
     servicesAIChatTitle: "የአርቴፊሻል ኢነተለጀንስ የጤና እረዳት",
-    servicesAIChatDesc: "በ24/7 የሚገኝ የእኛን በአርቴፊሻል ኢነተለጀንስ የሚጠቀም የግንኙነት እረዳት በኩል ለጤና ጥያቄዎችዎ በፍጥነት መልስ ያግኙ።",
+    servicesAIChatDesc:
+      "በ24/7 የሚገኝ የእኛን በአርቴፊሻል ኢነተለጀንስ የሚጠቀም የግንኙነት እረዳት በኩል ለጤና ጥያቄዎችዎ በፍጥነት መልስ ያግኙ።",
     servicesLearnMore: "ተጨማሪ ይወቁ",
     servicesBookNow: "አሁኑኑ ያዘዙ",
 
@@ -325,6 +371,6 @@ export const translations = {
     midwifeSelectTime: "ጊዜ ይምረጡ",
     midwifeNotes: "ተጨማሪ ማስታወሻዎች",
     midwifeSubmit: "አስገባ",
-    midwifeClose: "ይዝጉ"
-  }
-}; 
+    midwifeClose: "ይዝጉ",
+  },
+};
