@@ -1,17 +1,14 @@
-
 import Image from 'next/image';
 import { midwivesData } from '@/data/midwives';
 import { notFound } from 'next/navigation';
 import { useState } from 'react';
 import BookingModal from '@/components/BookingModal';
 
-interface PageProps {
-  params: {
-    id: string;
-  };
-}
-
-export default function MidwifeProfile({ params }: PageProps) {
+export default function MidwifeProfile({
+  params,
+}: {
+  params: { id: string };
+}) {
   const [isBookingModalOpen, setIsBookingModalOpen] = useState(false);
   const midwife = midwivesData.find(m => m.id === params.id);
 
