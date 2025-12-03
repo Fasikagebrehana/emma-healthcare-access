@@ -1,15 +1,13 @@
 import Image from 'next/image';
 import { midwivesData } from '@/data/midwives';
 import { notFound } from 'next/navigation';
-import { useState } from 'react';
-import BookingModal from '@/components/BookingModal';
+import MidwifeBookingClient from '@/components/MidwifeBookingClient';
 
 export default function MidwifeProfile({
   params,
 }: {
   params: { id: string };
 }) {
-  const [isBookingModalOpen, setIsBookingModalOpen] = useState(false);
   const midwife = midwivesData.find(m => m.id === params.id);
 
   if (!midwife) {
@@ -40,12 +38,7 @@ export default function MidwifeProfile({
                     <h1 className="text-2xl font-semibold text-gray-900">{midwife.name}</h1>
                     <p className="text-[#AD6E9D] mt-1">{midwife.title}</p>
                   </div>
-                  <button 
-                    onClick={() => setIsBookingModalOpen(true)}
-                    className="bg-[#AD6E9D] text-white px-6 py-2 rounded-full hover:bg-[#AD6E9D]/90 transition-colors"
-                  >
-                    Book Appointment
-                  </button>
+                  <MidwifeBookingClient midwife={midwife} />
                 </div>
 
                 {/* Experience & Languages */}
@@ -106,11 +99,7 @@ export default function MidwifeProfile({
         </div>
       </div>
 
-      <BookingModal
-        isOpen={isBookingModalOpen}
-        onClose={() => setIsBookingModalOpen(false)}
-        midwife={midwife}
-      />
+      {/* booking modal moved into client component */}
     </>
   );
 } 
